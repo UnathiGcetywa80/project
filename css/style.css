@@ -192,5 +192,8 @@ footer{
         transform: translate(-50%, -50%);
         -ms-transform: translate(-50%, -50%);
       }
+      h4{
+        align-items: center;
+      }
 
   
